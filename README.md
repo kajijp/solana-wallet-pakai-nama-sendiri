@@ -34,4 +34,11 @@ kajijp:1 = Ganti "kajijp" dengan kata yang kalian inginkan dan angka 1 adalah ju
 --ignore-case = ini berfungsi untuk menghiraukan besar kecilnya kata, jika tanpa ini, maka wallet akan mencari yang sangat mirip dengan yang kalian inginkan<br>
 
 
-
+<br><br><br>
+🔥 Mohon dukungan agar KajiJP semakin berkembang, like dan gabung ke channel kami, sebarkan dan undang teman anda, terima kasih, Insyaallah JP!
+## 🌐 Komunitas KajiJP
+Gabung dan ikuti info terbaru:
+- 💬 [Telegram](https://t.me/kajijp)
+- 🎮 [Facebook](https://facebook.com/kajijp)
+- 🐦 [X / Twitter](https://x.com/wakkajijp)
+- ▶️ [Yourube](https://www.youtube.com/@KajiJP)
